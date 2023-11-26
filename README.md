@@ -10,21 +10,3 @@ Intruksi manual Ketikkan: (Clone dulu repisitory ini dengan cara: git clone http
 3. php artisan key:generate
 4. php artisan migrate (Jangan lupa set up database)
 5. php artisan db:seed
-
-ScreenShot Aplikasi
-
-![SS](https://github.com/crusherblack/Laravel-POS-Free/blob/master/screenshot/1.jpg)
-
-![SS](https://github.com/crusherblack/Laravel-POS-Free/blob/master/screenshot/2.jpg)
-
-![SS](https://github.com/crusherblack/Laravel-POS-Free/blob/master/screenshot/3.jpg)
-
-![SS](https://github.com/crusherblack/Laravel-POS-Free/blob/master/screenshot/4.jpg)
-
-![SS](https://github.com/crusherblack/Laravel-POS-Free/blob/master/screenshot/5.jpg)
-
-![SS](https://github.com/crusherblack/Laravel-POS-Free/blob/master/screenshot/6.jpg)
-
-![SS](https://github.com/crusherblack/Laravel-POS-Free/blob/master/screenshot/7.jpg)
-# 168akb
-# rentalsepeda

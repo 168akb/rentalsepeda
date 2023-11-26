@@ -1,12 +1,9 @@
-# Laravel 7 POS Free - Point of Sales (If you like this project don't forget to leave a Star, Thank You)
+# Bicycle Rental System - Made using Laravel 7
 
-Link Youtube for Installation
-https://youtu.be/LsOF8G-P6Go
-
-Intruksi manual Ketikkan: (Clone dulu repisitory ini dengan cara: git clone https://github.com/crusherblack/Laravel-POS-Free pada terminal yang sudah terinstall GIT)
+How to Install :
 
 1. Composer Install
 2. cp .env.example .env
 3. php artisan key:generate
-4. php artisan migrate (Jangan lupa set up database)
+4. php artisan migrate
 5. php artisan db:seed
